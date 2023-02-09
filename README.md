@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nahjam
+- 👋 Hi, I’m @nahyanjamil
 - 👀 I’m interested in Cybersecurity (Red Team)
 - 🌱 I’m currently learning networking for my S+ certification 
 - 💞️ I’m looking to collaborate on red team projects
