@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahjam
 - 👀 I’m interested in Cybersecurity (Red Team)
-- 🌱 I’m currently learning networking for my N+ certification 
+- 🌱 I’m currently learning networking for my S+ certification 
 - 💞️ I’m looking to collaborate on red team projects
 
 <!---
